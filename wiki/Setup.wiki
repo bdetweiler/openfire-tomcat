@@ -2,7 +2,15 @@
 
 = Introduction =
 
-1. Embedded Openfire into Tomcat
+Explain Embedded Openfire into Tomcat.
+
+1. download openfire source
+2. build openfire
+3. run openfire
+4. download svn source
+5. import eclipse
+6. edit openfire_web/openfire/conf/openfire.xml
+7. run eclipse & tomcat
 
 = Details =
 
